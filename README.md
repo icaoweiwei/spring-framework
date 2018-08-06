@@ -1,4 +1,6 @@
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-framework.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-framework?ref=badge_shield)
+
 
 This is the home of the Spring Framework, the foundation for all
 [Spring projects](https://spring.io/projects). Together the Spring Framework and the family of Spring projects make up what we call "Spring". 
@@ -46,3 +48,6 @@ and releases are announced via our [news feed](http://spring.io/blog/category/ne
 
 The Spring Framework is released under version 2.0 of the
 [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-framework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-framework?ref=badge_large)
